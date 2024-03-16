@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694708017 source:c:\dev\prozd\tax\main.c
+	<stdio.h>
+	<stdlib.h>
+
